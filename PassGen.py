@@ -31,4 +31,4 @@ password_final = ''
 for char in password:
     password_final += char
 
-print(f"Your password is {password_final}")
+print(f"Your new default password is {password_final}")
